@@ -15,5 +15,5 @@ https://restaurant-menu-filter.netlify.app/
 
 
 #### PREVIEW
-![Menu-Restaurants](https://github.com/JuliaCMint/sorting-menu-items/assets/105377899/7a475b16-3080-4183-aac3-b68b1b5e5bc2)
 
+![Menu-Restaurants](https://github.com/JuliaCMint/sorting-menu-items/assets/105377899/4425103f-31a1-4f3b-8a42-2a825867cfa9)
